@@ -1,4 +1,4 @@
-![pataccon](https://github.com/pataccon/pataccon/pataccon.png)
+![pataccon](https://[github.com/pataccon/pataccon/pataccon.png](https://github.com/pataccon/pataccon/blob/main/pataccon.png))
 ## Hi there fuckas 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pataccon&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
