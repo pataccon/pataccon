@@ -1,4 +1,4 @@
-![pataccon]<p align = "center">(https://github.com/pataccon/pataccon/blob/main/pataccon.png)</p>
+![pataccon](https://github.com/pataccon/pataccon/blob/main/pataccon.png)
 
 # <p align = "center"> Hi there fuckas 👋 </p>
 
