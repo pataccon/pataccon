@@ -1,6 +1,6 @@
 ![pataccon](https://github.com/pataccon/pataccon/blob/main/pataccon.png)
 
-<p align = "center"> # Hi there fuckas 👋 </p>
+# <p align = "center"> Hi there fuckas 👋 </p>
 
 <p align = "center"> # my stats </p>
 
